@@ -1,1 +1,1 @@
-# Slides
+# Resources for Studio 1D
